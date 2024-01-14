@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 .DS_Store
 scratchpad.ipynb
+part03-e13_read_series/.tmcproject.yml
